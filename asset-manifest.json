@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sultan-offer/static/css/main.1e0d9f51.css",
+    "main.js": "/sultan-offer/static/js/main.f7a06e0e.js",
+    "static/js/787.d0f4f082.chunk.js": "/sultan-offer/static/js/787.d0f4f082.chunk.js",
+    "static/media/muz.mp3": "/sultan-offer/static/media/muz.3ef57a2d7480374299d5.mp3",
+    "static/media/KZPFChampionScriptPr.woff": "/sultan-offer/static/media/KZPFChampionScriptPr.c969debe842ccbe7bfb5.woff",
+    "static/media/kiiz.jpeg": "/sultan-offer/static/media/kiiz.aeadcfc5a426f6ee3ff0.jpeg",
+    "static/media/KZ_Days.ttf": "/sultan-offer/static/media/KZ_Days.3d02ef62c3b07a40f823.ttf",
+    "static/media/BKANTKZ.woff": "/sultan-offer/static/media/BKANTKZ.99d520659faa3b7ff7bd.woff",
+    "static/media/kz-balmoral-regular.ttf": "/sultan-offer/static/media/kz-balmoral-regular.222d95588b1ee277857b.ttf",
+    "static/media/mainph.jpeg": "/sultan-offer/static/media/mainph.a6dd289cf7c432bf02e1.jpeg",
+    "static/media/Romulc.woff": "/sultan-offer/static/media/Romulc.7abe3b8a8422dbf308d5.woff",
+    "static/media/2gis.png": "/sultan-offer/static/media/2gis.a5dcf1f67686c8b5e520.png",
+    "index.html": "/sultan-offer/index.html",
+    "main.1e0d9f51.css.map": "/sultan-offer/static/css/main.1e0d9f51.css.map",
+    "main.f7a06e0e.js.map": "/sultan-offer/static/js/main.f7a06e0e.js.map",
+    "787.d0f4f082.chunk.js.map": "/sultan-offer/static/js/787.d0f4f082.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e0d9f51.css",
+    "static/js/main.f7a06e0e.js"
+  ]
+}
